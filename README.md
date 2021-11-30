@@ -1,6 +1,6 @@
-# PARKEI
+## PARKEI
 
-An amusement park system based on object-oriented Design. 
+**An amusement park system based on object-oriented Design.**
 The park contains different types of rides. Transport rides are those that people take for transportation within the park. 
 These can be circular or bidirectional Fun rides are the games that people visit the park in order to enjoy. There are different types of fun rides, water rides, ferris wheels, roller coaster, and scare rides.
 
